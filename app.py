@@ -159,4 +159,5 @@ if st.button("🔍 Start Resume Screening", use_container_width=True):
                 st.markdown(response.text)
                 
         except Exception as e:
+
             st.error(f'Error analyzing resume: {str(e)}')
