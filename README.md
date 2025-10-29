@@ -16,8 +16,8 @@ It provides match scores, keyword insights, and personalized recommendations, he
 |--------------|-----------------|
 |🧠 AI Model |	Google Gemini API |
 |💻 Frontend/UI |	Streamlit |
-|📄 File Parsing	PyPDF2 | pdfminer |
-|🧰 Backend Logic	Python
+|📄 File Parsing |	PyPDF2  pdfminer |
+|🧰 Backend Logic |	Python|
 📊 Data Handling	Pandas| JSON |
 
  ---
@@ -26,8 +26,9 @@ It provides match scores, keyword insights, and personalized recommendations, he
 ```sh
 git clone https://github.com/Abdulbasith0512/ATS-Resume-Scorer.git
 cd ATS-Resume-Scorer
+--- 
 
-2️⃣ Create Virtual Environment (Optional)
+## **2️⃣ Create Virtual Environment (Optional)**
 python -m venv venv
 source venv/bin/activate    # for Linux/Mac
 venv\Scripts\activate       # for Windows
